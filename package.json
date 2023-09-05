@@ -1,0 +1,19 @@
+{
+  "name": "nodedemo",
+  "version": "18.16.0",
+  "description": "Simple web App\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[W\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavankumar-ui/Intro-to-Node-Basics.git"
+  },
+  "author": "Pavan Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pavankumar-ui/Intro-to-Node-Basics/issues"
+  },
+  "homepage": "https://github.com/pavankumar-ui/Intro-to-Node-Basics#readme"
+}
