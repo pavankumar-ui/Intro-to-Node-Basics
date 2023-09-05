@@ -1,6 +1,7 @@
 var http = require('http');    //builtin api modules
 var fs = require('fs');
 var url = require('url');
+const PORT = process.env.PORT ||5000
 
 
 //builtin syntax for node js//
@@ -29,6 +30,6 @@ http.createServer((req,res) =>{
  res.write(data);
  return res.end();
 })
-}).listen(8081);
+}).listen(PORT);
 
 console.log("server listening on port 8081........");
