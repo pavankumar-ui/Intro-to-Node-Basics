@@ -1,7 +1,7 @@
 var http = require('http');    //builtin api modules
 var fs = require('fs');
 var url = require('url');
-const PORT = process.env.PORT ||5000
+const PORT = process.env.PORT ||5000;
 
 
 //builtin syntax for node js//
